@@ -8,8 +8,9 @@
     font-family: "Inter", sans-serif;
 }
 .header{
-    width:1440px ;
+    width:1200px ;
     margin: 0 auto;
+    max-width: 100%;
 }
 .nav {
     width: 100%;
